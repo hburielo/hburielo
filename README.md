@@ -2,6 +2,7 @@ Olá, eu sou Hendrick Camporese!
 💻 Desenvolvedor |  Estudante de Ciência da Computação |  Apaixonado por Tecnologia
 
 📌 Sobre mim
+
 🎓 Ciência da Computação no Centro Universitário FEI
 💡 Interesse em Desenvolvimento de Software, Desenvolvimento Back-End , Análise de Dados e Automação.
 🔧 Experiência com Python, SQL, Power BI e C

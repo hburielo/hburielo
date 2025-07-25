@@ -1,28 +1,15 @@
 Olá, eu sou Hendrick Camporese!
 
-💻 Desenvolvedor |  Estudante de Ciência da Computação |  Apaixonado por Tecnologia
+ Desenvolvedor |  Estudante de Ciência da Computação |  
 
-📌 Sobre mim
 
-🎓 Ciência da Computação no Centro Universitário FEI
 
-💡 Interesse em Desenvolvimento de Software, Desenvolvimento Back-End , Análise de Dados e Automação
+Ciência da Computação no Centro Universitário FEI
 
-🔧 Experiência com Python, SQL, Power BI e C
 
-📍 Buscando sempre aprender e contribuir para projetos 
+Linguagens: Python | C | SQL | JavaScript
 
-🚀 Tecnologias e Ferramentas
 
-📌 Linguagens: Python | C | SQL | JavaScript
-
-📊 Banco de Dados: MySQL | PostgreSQL
-
-📈 Análise de Dados: Power BI 
-
-🛠 Ferramentas: Git | GitHub | VS Code 
-
-📫 Como me encontrar
 
 🔗 LinkedIn www.linkedin.com/in/hendrick-camporese-288410165
 

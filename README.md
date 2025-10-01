@@ -4,9 +4,6 @@
 
 Desenvolvedor FullStack
 
----
-
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hburielo&show_icons=true&count_private=true&theme=dracula)
 
 ---
 ### Linguagens
@@ -26,3 +23,7 @@ Desenvolvedor FullStack
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
 </p>
+
+---
+
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hburielo&show_icons=true&count_private=true&theme=dracula)

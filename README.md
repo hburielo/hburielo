@@ -5,7 +5,7 @@
 Desenvolvedor FullStack
 
 
----
+
 ### Linguagens
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -13,6 +13,12 @@ Desenvolvedor FullStack
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+
+
+
+---
+
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hburielo&show_icons=true&count_private=true&theme=dracula)
 
 
 ### Como entrar em contato?
@@ -24,7 +30,3 @@ Desenvolvedor FullStack
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
 </p>
-
----
-
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hburielo&show_icons=true&count_private=true&theme=dracula)

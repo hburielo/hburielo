@@ -1,11 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Meu nome é Hendrick Burielo, sou Desenvolvedor Fullstack em formação.
+## Olá! Eu sou o Hendrick
 
-Atualmente, atuo como estagiário em QA (Quality Assurance), onde tenho a oportunidade de desenvolver habilidades em testes de software, automação e boas práticas de qualidade.
+Desenvolvedor FullStack
 
-
-
+--
 
 Linguagens
 

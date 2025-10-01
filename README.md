@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá! Eu sou o Hendrick
+## 👋 Olá! Eu sou o Hendrick
 
-Desenvolvedor FullStack
+Desenvolvedor FullStack, em busca por conhecimento e inovação
 
-
+---
 
 ### Linguagens
 
@@ -21,7 +21,7 @@ Desenvolvedor FullStack
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hburielo&show_icons=true&count_private=true&theme=dracula)
 
 
-### Como entrar em contato?
+### 💬 Como entrar em contato?
 
 <p align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail">
